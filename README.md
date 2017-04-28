@@ -1,4 +1,4 @@
-# Kaggle - AllState Claims 
+# Kaggle: AllState Claims 
 
 Built a Machine Learning model using Random Forests to predict the severity of insurance claims for Allstate. This Python project uses Recursive Feature Elimination to optimize feature selection.
 
