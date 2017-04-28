@@ -8,4 +8,3 @@ Built a Machine Learning model using Random Forests to predict the severity of i
 
 ![alt text][im01]
 
-[Kaggle Score](https://www.kaggle.com/jasonquick)
